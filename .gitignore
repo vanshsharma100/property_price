@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ML Models (Large files)
+*.pkl
+*.h5
+*.model
+
+# Dataset files
+*.csv
+*.xlsx
+
+# Streamlit
+.streamlit/
+
+# FastAPI cache
+__pycache__/

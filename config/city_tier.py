@@ -1,0 +1,1 @@
+city_tier_1=['Noida','Dwarka','Gurgaon','Rohini']
